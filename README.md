@@ -6,8 +6,6 @@ Each directory listed below contains config files specific to one programming la
 
 - [html&css](./html-css)
 - [html&css + javascript](./html-css-js) (for projects that require you to use both JavaScript and HTML & CSS)
-- [ruby](./ruby)
-- [ror](./ror)
 - [javascript](./javascript)
 - [react&redux](./react-redux)
 
@@ -27,7 +25,7 @@ There are a few reasons for using linters:
 
 ---
 
-You can find linters for most of the programming languages, e.g. Rubocop for Ruby or ESLint for JavaScript.
+You can find linters for most of the programming languages, e.g. ESLint for JavaScript.
 
 Also, there are many ways you can integrate a linter in your workflow:
 
@@ -57,8 +55,6 @@ The problem is that you may be using a credentials app like [Credential Manager 
 If you had a different problem related to a specific tool, please check detailed instructions for each linter:
 
 - [html&css](./html-css#troubleshooting)
-- [ruby](./ruby#troubleshooting)
-- [ror](./ror#troubleshooting)
 - [javascript](./javascript#troubleshooting)
 - [react&redux](./react-redux#troubleshooting)
 
@@ -70,7 +66,7 @@ TSEs will validate that you are using the same configuration files provided here
 
 ## Stickler
 
-This is the **GitHub Actions configuration**. If you are looking for the **Stickler configuration**, you can find it [here](https://github.com/microverseinc/linters-config/tree/Stickler).
+This is the **GitHub Actions configuration**. If you are looking for the **Stickler configuration**, you can find it [here](https://github.com/carifika/linters-config/tree/Stickler).
 
 ## Contributing
 
