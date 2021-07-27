@@ -60,9 +60,9 @@ If you had a different problem related to a specific tool, please check detailed
 
 ## Validation
 
-Do not make any changes in config files - they represent style guidelines that you share with your team - which is a group of all Microverse students.
+Do not make any changes in config files - they represent style guidelines that we share with members of our team.
 
-TSEs will validate that you are using the same configuration files provided here. You can check if your linter configuration is correct using the [`check-linters-config`](scripts) script.
+Validation will be done on your code to ensure that you are using the same configuration files provided here. You can check if your linter configuration is correct using the [`check-linters-config`](scripts) script.
 
 ## Stickler
 
